@@ -18,7 +18,6 @@ string[] FillUpArray()
     for (int i = 0; i < size; i += 1)
     {
         Console.Write($"Введите {i + 1} значение массива: ");
-
         array[i] = Console.ReadLine();
 
     }
