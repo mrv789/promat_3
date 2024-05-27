@@ -9,6 +9,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 // Функция для заполнения исходного массива
+
 string[] FillUpArray()
 {
     Console.Write("Укажите размер массива: ");
@@ -20,7 +21,7 @@ string[] FillUpArray()
         array[i] = Console.ReadLine();
     }
     return array;
-
+}
 // Функция для вывода массива
 void PrintArray(string[] array)
 {
@@ -53,7 +54,7 @@ string[] ResultArray(string[] array)
     return arrayRes;
 }
 
-string[] arraySet = FillArray();
+string[] arraySet = FillUpArray();
 Console.WriteLine();
 Console.WriteLine("Первоначально заданный массив:");
 PrintArray(arraySet);
