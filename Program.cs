@@ -52,3 +52,12 @@ string[] ResultArray(string[] array)
     }
     return arrayRes;
 }
+
+string[] arraySet = FillArray();
+Console.WriteLine();
+Console.WriteLine("Первоначально заданный массив:");
+PrintArray(arraySet);
+Console.WriteLine();               
+string[] arrayRes = ResultArray(arraySet);
+Console.WriteLine("Новый массив из строк, длина которых меньше, либо равна 3 символам:");
+PrintArray(arrayRes);
