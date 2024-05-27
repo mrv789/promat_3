@@ -1,0 +1,15 @@
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.csproj.AssemblyReference.cache
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.AssemblyInfoInputs.cache
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.AssemblyInfo.cs
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\promat_3\bin\Debug\net6.0\promat_3.exe
+C:\GeekBrains\promat_3\bin\Debug\net6.0\promat_3.deps.json
+C:\GeekBrains\promat_3\bin\Debug\net6.0\promat_3.runtimeconfig.json
+C:\GeekBrains\promat_3\bin\Debug\net6.0\promat_3.dll
+C:\GeekBrains\promat_3\bin\Debug\net6.0\promat_3.pdb
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.dll
+C:\GeekBrains\promat_3\obj\Debug\net6.0\refint\promat_3.dll
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.pdb
+C:\GeekBrains\promat_3\obj\Debug\net6.0\promat_3.genruntimeconfig.cache
+C:\GeekBrains\promat_3\obj\Debug\net6.0\ref\promat_3.dll
