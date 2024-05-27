@@ -30,3 +30,25 @@ void PrintArray(string[] array)
     Console.Write($"“{array[array.Length-1]}”]");
     Console.WriteLine();
 }   
+
+// Функция для формирования нового массива строк из исходного массива строк, 
+// длина которых меньше, либо равна 3 символам
+string[] ResultArray(string[] array)
+{
+    int sz = 0;
+    int j = 0;
+    for (int i = 0; i < array.Length; i += 1)
+    {
+        if (array[i].Length <= 3) sz += 1;
+    }
+    string[] arrayRes = new string[sz];
+    for (int i = 0; i < array.Length; i += 1)
+     {
+        if (array[i].Length <= 3)
+        {
+            arrayRes[j] = array[i];
+            j += 1;
+        }
+    }
+    return arrayRes;
+}
